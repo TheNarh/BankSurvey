@@ -16,7 +16,7 @@ A customer feedback survey built with **React** and **Tailwind CSS**. Designed f
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js v18+
@@ -47,6 +47,18 @@ npm run build
 ```
 
 ---
+
+## ScreenShots
+
+<img width="1896" height="881" alt="BankSurvey1" src="https://github.com/user-attachments/assets/69a9fcf6-70c4-44cc-96af-a6ccee75ac92" />
+<img width="1900" height="857" alt="BankSurvey2" src="https://github.com/user-attachments/assets/8ac24518-2305-4395-910b-7ba9f9144db7" />
+<img width="1894" height="771" alt="BankSurvey3" src="https://github.com/user-attachments/assets/bb92211f-e6df-4e8e-ae46-487a68f1d2a3" />
+<img width="1897" height="824" alt="BankSurvey4" src="https://github.com/user-attachments/assets/7981ec96-5ccc-4034-aa97-8c811c3262a3" />
+<img width="1897" height="824" alt="BankSurvey5" src="https://github.com/user-attachments/assets/1c3e1425-9999-47d6-89ce-a4868c0f4579" />
+<img width="1901" height="811" alt="BankSurvey6" src="https://github.com/user-attachments/assets/f919018a-eeb6-4c3d-93e4-91857941f97f" />
+
+
+
 
 ## Project Structure
 
