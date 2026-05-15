@@ -66,7 +66,7 @@ export default function ThankYouScreen({ surveyData }) {
               </h2>
               <p
                 className="text-center text-sm mb-10"
-                style={{ color: "#888" }}
+                style={{ color: "black" }}
               >
                 Your feedback has been submitted. Here's a summary of your
                 responses.
@@ -84,7 +84,7 @@ export default function ThankYouScreen({ surveyData }) {
                 <div>
                   <p
                     className="text-xs font-semibold uppercase tracking-widest mb-2"
-                    style={{ color: "#94a3b8" }}
+                    style={{ color: "black" }}
                   >
                     Overall Satisfaction
                   </p>
@@ -163,7 +163,7 @@ export default function ThankYouScreen({ surveyData }) {
           </div>
 
           {/* Footer */}
-          <p className="text-center text-xs mt-6" style={{ color: "#bbb" }}>
+          <p className="text-center text-xs mt-6" style={{ color: "black" }}>
             © 2026 GhanaBank. All rights reserved.
           </p>
         </div>
